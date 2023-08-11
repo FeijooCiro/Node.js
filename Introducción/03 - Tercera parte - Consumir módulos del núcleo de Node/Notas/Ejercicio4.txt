@@ -1,0 +1,3 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Tercer ejercicio - Consumir módulos del núcleo de Node>node Ejercicio4
+Memoria libre antes del vector:228790272 bytes
+Memoria libre después del vector:225865728 bytes

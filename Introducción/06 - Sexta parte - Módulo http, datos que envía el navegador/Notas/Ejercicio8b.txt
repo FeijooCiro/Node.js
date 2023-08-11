@@ -1,0 +1,20 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\06 - Sexta parte - Módulo http, datos que envía el navegador>node Ejercicio8b
+Servidor web iniciado
+href: http://localhost:8888/carpeta1/pagina1.html?parametro1=10&parametro2=20
+origin: http://localhost:8888
+protocol: http:
+host: localhost:8888
+hostname: localhost
+port: 8888
+pathname: /carpeta1/pagina1.html
+search: ?parametro1=10&parametro2=20
+Nombre del parámetro:parametro1- Valor del parámetro:10
+Nombre del parámetro:parametro2- Valor del parámetro:20
+href: http://localhost:8888/favicon.ico
+origin: http://localhost:8888
+protocol: http:
+host: localhost:8888
+hostname: localhost
+port: 8888
+pathname: /favicon.ico
+search:

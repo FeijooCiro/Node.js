@@ -1,0 +1,5 @@
+C:\Users\cirol>cd C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\04 - Cuarta parte - Módulos para administrar sistemas de archivos fs y fspromises
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\04 - Cuarta parte - Módulos para administrar sistemas de archivos fs y fspromises>node Ejercicio5
+última línea del programa
+El archivo fue creado

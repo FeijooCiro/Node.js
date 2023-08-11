@@ -1,0 +1,15 @@
+C:\Users\cirol>node
+Welcome to Node.js v18.17.1.
+Type ".help" for more information.
+> const lenguajes = ['JavaScript', 'CSS', 'HTML']
+undefined
+> console.log(lenguajes)
+[ 'JavaScript', 'CSS', 'HTML' ]
+undefined
+> .exit
+
+C:\Users\cirol>cd C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Primer ejemplo
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Primer ejemplo>node Ejercicio1
+Buenos días, soy un archivo random que no tiene ninguna utilidad más que ser un ejemplo de Node,js
+Fin :)

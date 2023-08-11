@@ -1,0 +1,2 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\07 - Septima parte - Servidor web con Nodejs que sirve páginas estáticas HTML>node Ejercicio9b
+Servidor web iniciado

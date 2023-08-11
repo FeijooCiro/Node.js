@@ -1,0 +1,30 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\06 - Sexta parte - Módulo http, datos que envía el navegador>node Ejercicio8
+Servidor web iniciado
+URL {
+  href: 'http://localhost:8888/',
+  origin: 'http://localhost:8888',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:8888',
+  hostname: 'localhost',
+  port: '8888',
+  pathname: '/',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
+URL {
+  href: 'http://localhost:8888/favicon.ico',
+  origin: 'http://localhost:8888',
+  protocol: 'http:',
+  username: '',
+  password: '',
+  host: 'localhost:8888',
+  hostname: 'localhost',
+  port: '8888',
+  pathname: '/favicon.ico',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}

@@ -1,0 +1,11 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\04 - Cuarta parte - Módulos para administrar sistemas de archivos fs y fspromises>node Problema1
+archivo1.txt
+archivo1b.txt
+Ejercicio5.js
+Ejercicio5b.js
+Ejercicio5c.js
+Ejercicio6.js
+Ejercicio6b.js
+Ejercicio6c.js
+Notas
+Problema1.js

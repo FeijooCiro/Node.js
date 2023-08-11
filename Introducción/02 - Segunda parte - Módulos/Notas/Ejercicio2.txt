@@ -1,0 +1,9 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Primer ejemplo>cd..
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs>cd C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Segundo ejercicio - Módulos
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Segundo ejercicio - Módulos>node Ejercicio2
+La suma de 2+2=4
+La resta de 4-1=3
+La división de 6/3=2
+El valor de PI=3.14

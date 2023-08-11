@@ -1,0 +1,17 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Segundo ejercicio - Módulos>cd C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Tercer ejercicio - Consumir módulos del núcleo de Node
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Tercer ejercicio - Consumir módulos del núcleo de Node>node Ejercicio3
+Sistema operativo:win32
+Versión del sistema operativo:10.0.19045
+Memoria total:4081168384 bytes
+Memoria libre:233897984 bytes
+Arquitectura CPU:x64
+Número de procesadores lógicos:4
+Nombre: Intel(R) Celeron(R) N5100 @ 1.10GHz
+Núcleos: undefined
+Nombre: Intel(R) Celeron(R) N5100 @ 1.10GHz
+Núcleos: undefined
+Nombre: Intel(R) Celeron(R) N5100 @ 1.10GHz
+Núcleos: undefined
+Nombre: Intel(R) Celeron(R) N5100 @ 1.10GHz
+Núcleos: undefined

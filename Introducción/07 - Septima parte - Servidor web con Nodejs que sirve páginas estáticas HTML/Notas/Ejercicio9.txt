@@ -1,0 +1,4 @@
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\06 - Sexta parte - Módulo http, datos que envía el navegador>cd C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\07 - Septima parte - Servidor web con Nodejs que sirve páginas estáticas HTML
+
+C:\Users\cirol\OneDrive\Escritorio\Ciro\EEST N°2\7°2°\Abdala\NodeJs\Introducción\07 - Septima parte - Servidor web con Nodejs que sirve páginas estáticas HTML>node Ejercicio9
+Servidor web iniciado
